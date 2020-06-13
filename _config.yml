@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+gems: [jekyll-paginate,jekyll-gist]
+# Setup
+title:            Sukesh
+tagline:          ''
+description:      ''
+url:              http://blog.theelysiancanvas.com
+baseurl:          /elysianartblog.github.io/
+
+author:
+  name:           'The Elysian Canvas'
+  url:            https://twitter.com/
+
+paginate:         3
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/elysianartblog
